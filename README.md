@@ -11,7 +11,7 @@ dimensions, surfaced through a four-page Power BI suite with DAX KPIs and strate
 ## About this project
 
 This was a project for Business Intelligence & Analytics (BINF 602) at the German
-International University, built by a team of six.
+International University.
 
 ## Architecture
 
