@@ -88,22 +88,22 @@ column instead of recomputing a product across every row at query time.
 Four pages, each aimed at a specific persona rather than a generic overview.
 
 ### Executive Omnichannel Overview
-![Executive overview](dashboard/01_executive_overview.png)
+![Executive overview](Dashboard/01_executive_overview.png)
 Channel split, combined revenue and quantity against target, YoY growth, monthly trend by
 channel, revenue by city.
 
 ### Store Operations Performance
-![Store operations](dashboard/02_store_operations.png)
+![Store operations](Dashboard/02_store_operations.png)
 Revenue against target, average unit price, departmental revenue, transactions by weekday,
 per-store ranking, and an employee leaderboard using `RANKX` over all employees.
 
 ### Product & Promotion Insights
-![Product and promotion](dashboard/03_product_promotion.png)
+![Product and promotion](Dashboard/03_product_promotion.png)
 Best-selling product, brand, category and promotion as dynamic `TOPN` measures; discount depth
 versus revenue by promotion type; a store-versus-online revenue matrix by department.
 
 ### Online Sales & Fulfillment
-![Online fulfillment](dashboard/04_online_fulfillment.png)
+![Online fulfillment](Dashboard/04_online_fulfillment.png)
 AOV and cancellation rate against thresholds, the fulfillment pipeline from delivered to
 returned, warehouse volume versus cancellation rate, payment mix by loyalty tier.
 
